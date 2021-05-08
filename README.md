@@ -71,7 +71,7 @@ App Stetics are not a requirement however they are encourage and huge plus
 ```
 
 
-![Comunity](https://github.com/givesafe/senior-android-assignment/blob/main/My%20Team.png?raw=true)
+![Comunity](https://github.com/givesafe/senior-android-assignment/blob/main/Community.png?raw=true)
 
 
 #### My Team
