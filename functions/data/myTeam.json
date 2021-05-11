@@ -1,0 +1,25 @@
+{
+  "my-team": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "captured_at": "2021-05-08T13:43:27-06:00",
+      "captured_lat_at": 23.894940373,
+      "captured_long_at": 23.894940373
+    },
+    {
+      "id": 2,
+      "name": "Bulbasaur",
+      "captured_at": "2021-05-08T13:43:27-06:00",
+      "captured_lat_at": 23.894940373,
+      "captured_long_at": 23.894940373
+    },
+    {
+      "id": 3,
+      "name": "Bulbasaur",
+      "captured_at": "2021-05-08T13:43:27-06:00",
+      "captured_lat_at": 23.894940373,
+      "captured_long_at": 23.894940373
+    }
+  ]
+}

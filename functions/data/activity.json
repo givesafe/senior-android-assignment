@@ -1,0 +1,77 @@
+{
+  "friends": [
+    {
+      "name": "Misty",
+      "pokemon": {
+        "id": 175,
+        "name": "Togepi",
+        "captured_at": "1998-06-25T13:43:27-06:00"
+      }
+    },
+    {
+      "name": "Brock",
+      "pokemon": {
+        "id": 95,
+        "name": "Onix",
+        "captured_at": "1992-01-27T08:43:27-06:00"
+      }
+    },
+    {
+      "name": "Tracey Sketchit",
+      "pokemon": {}
+    },
+    {
+      "name": "May"
+    },
+    {
+      "name": "Max"
+    },
+    {
+      "name": "Dawn"
+    },
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Cilan"
+    },
+    {
+      "name": "Clemont"
+    },
+    {
+      "name": "Bonnie"
+    }
+  ],
+  "foes": [
+    {
+      "name": "Jessie"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Meowth"
+    },
+    {
+      "name": "Gary Oak"
+    },
+    {
+      "name": "Paul"
+    },
+    {
+      "name": "Trip"
+    },
+    {
+      "name": "Alain"
+    },
+    {
+      "name": "Galdion"
+    },
+    {
+      "name": "Bea"
+    },
+    {
+      "name": "Ritchie"
+    }
+  ]
+}
