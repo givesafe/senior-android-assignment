@@ -1,0 +1,70 @@
+{
+  "friends": [
+    {
+      "name": "Misty",
+      "pokemon": {
+        "id": 175,
+        "name": "Togepi",
+        "captured_at": "1997-04-01T13:43:27-06:00"
+      }
+    },
+    {
+      "name": "Brock",
+      "pokemon": {
+        "id": 95,
+        "name": "Onix",
+        "captured_at": "1992-01-27T08:43:27-06:00"
+      }
+    },
+    {
+      "name": "Tracey Sketchit",
+      "pokemon": {
+        "id": 48,
+        "name": "Venonat",
+        "captured_at": "1999-02-18T13:34:32-06:00"
+      }
+    },
+    {
+      "name": "May",
+      "pokemon": {
+        "id": 265,
+        "name": "Wurmple",
+        "captured_at": "2003-02-27T12:32:34-06:00"
+      }
+    }
+  ],
+  "foes": [
+    {
+      "name": "Jessie",
+      "pokemon": {
+        "id": 202,
+        "name": "Wobbuffet",
+        "captured_at": "2000-03-24T10:23:42-06:00"
+      }
+    },
+    {
+      "name": "James",
+      "pokemon": {
+        "id": 52,
+        "name": "Meowth",
+        "captured_at": "1995-03-12T12:43:23-06:00"
+      }
+    },
+    {
+      "name": "Meowth",
+      "pokemon": {
+        "id": 52,
+        "name": "Meowth",
+        "captured_at": "1995-03-12T12:43:23-06:00"
+      }
+    },
+    {
+      "name": "Gary Oak",
+      "pokemon": {
+        "id": 7,
+        "name": "Squirtle",
+        "captured_at": "1997-04-01T13:43:27-06:00"
+      }
+    }
+  ]
+}
