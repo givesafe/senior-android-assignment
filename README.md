@@ -26,7 +26,7 @@ App Metrics are not a requirement however they are encourage and huge plus
 
 ## Accessing Samaritan's assignment endpoints
 
-- Parts of the assignment will require you to access a set of endpoints built specifically for this assignment.
+- Parts of the assignment will require you to access a set of Firebase cloud function endpoints built specifically for this assignment.
 - Samaritan's Assignment API base URL will be provided in an email correspondence.
 - Samaritan's Assignment API endpoints require a authorization token to access.
 - fetch a token from `POST https://{URL}/token?email={email}` and set that as your authorization Bearer token for all requests
