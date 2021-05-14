@@ -220,7 +220,7 @@ This should be a different `Activity` that can be initialized with a parametter 
 
 ### `POST https://{URL}/token?email={email}`
 
-- you will be provided an email address to use
+- you will be emailed the email address that will return a token.
 - endpoint returns a jwt valid for 1h
 - the returned token should be set as Authorization header bearer token for access to all other endpoints.
 
